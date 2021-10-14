@@ -192,3 +192,6 @@ query examples of using solr and ignite with python
         
     
         
+author: Vadim Danilchenko
+
+email: vndanilchenko@gmail.com 
